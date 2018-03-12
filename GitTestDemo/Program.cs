@@ -14,6 +14,9 @@ namespace GitTestDemo
             Console.WriteLine("Git");
             int x = 5;
             string testBranch = "testBranch";
+            //mer data
+            double a = 5.41;
+            double b = 6.12;
         }
     }
 }
