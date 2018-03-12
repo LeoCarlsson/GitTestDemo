@@ -13,6 +13,7 @@ namespace GitTestDemo
             Console.WriteLine("Hello World!");
             Console.WriteLine("Git");
             int x = 5;
+            string testBranch = "testBranch";
         }
     }
 }
